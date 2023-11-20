@@ -11,7 +11,7 @@
 ## 1. Introduction to ML and ISLR
 
 - En que se usa
-- 
+
 ![ml](./img/ml1.png)
 
 - Proceso
@@ -49,7 +49,8 @@ Ejemplos de Aplicaciones:
 Aprendizaje Supervisado: Clasificación y regresión son tareas comunes en aprendizaje supervisado. 
 Ejemplos incluyen reconocimiento de imágenes, detección de spam y predicción de precios de acciones.
 Aprendizaje No Supervisado: Agrupamiento (clustering) y reducción de dimensionalidad son tareas comunes en 
-aprendizaje no supervisado. Ejemplos incluyen segmentación de clientes, análisis de temas en documentos y reducción de dimensionalidad para visualización de datos.
+aprendizaje no supervisado. Ejemplos incluyen segmentación de clientes, análisis de temas en documentos y
+reducción de dimensionalidad para visualización de datos.
 
 Evaluación del Modelo:
 
@@ -85,3 +86,6 @@ Ambos enfoques tienen aplicaciones únicas y se utilizan según la naturaleza de
 
 ## 2. Machine Learning with Spark and Python with MLlib
 
+- Spark tienes su propia librería de machine learning, MLLib
+![ml](./img/ml7.png)
+- Doc: https://spark.apache.org/docs/latest/ml-guide.html
